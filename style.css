@@ -1,0 +1,44 @@
+body {
+      font-family: 'Phudu', cursive;
+}
+
+h1 {
+      font-size: 60px;
+}
+
+.col {
+      color: chocolate;
+}
+
+.colour {
+      color: rgb(4, 214, 109);
+      font-size: 80px;
+}
+
+.big {
+      font-size: 100px;
+      color: red;
+}
+
+section {
+      display: flex;
+}
+
+.half-wid {
+      width: 60%;
+      padding: 5%;
+}
+
+.half-wid image {
+      width: 100%;
+}
+
+.hmb {
+      text-decoration: none;
+      background-image: linear-gradient(orange, tomato);
+      padding: 10px 40px;
+      border-radius: 8%;
+      font-weight: 500;
+      color: white;
+
+}
