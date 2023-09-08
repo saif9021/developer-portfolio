@@ -1,5 +1,6 @@
 body {
       font-family: 'Phudu', cursive;
+      margin: 0%;
 }
 
 h1 {
@@ -40,5 +41,9 @@ section {
       border-radius: 8%;
       font-weight: 500;
       color: white;
+}
 
+.top-banner {
+      background-image: url(images/top-banner.png);
+      background-repeat: no-repeat;
 }
