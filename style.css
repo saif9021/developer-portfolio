@@ -31,6 +31,15 @@ section {
       padding: 5%;
 }
 
+.ex-area {
+      box-shadow: 10px 10px 40px grey;
+      width: 40%;
+      margin-left: 5%;
+      margin-right: 5%;
+      padding: 5px 5px;
+      border-radius: 5%;
+}
+
 .half-wid image {
       width: 100%;
 }
@@ -57,4 +66,26 @@ section {
       background-image: url(images/dream-bg.png);
       background-repeat: no-repeat;
       background-position: right;
+}
+
+.mrgn {
+      display: flex;
+      padding: 100px;
+}
+
+.xperience {
+      background-image: url(images/exp-bg.png);
+      background-repeat: no-repeat;
+}
+
+#full-stack {
+      border-left: 7px solid blue;
+}
+
+#baby-web {
+      border-left: 7px solid green;
+}
+
+footer p {
+      text-align: center;
 }
